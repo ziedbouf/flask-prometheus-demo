@@ -8,7 +8,7 @@ enum-compat==0.0.2
 eventlet==0.21.0
 flask>=1.1.1
 Flask-Bcrypt==0.7.1
-Flask-Cors==3.0.3 
+Flask-Cors==3.0.9 
 Flask-Migrate==2.1.1
 Flask-SQLAlchemy==2.3.2
 Flask-Testing==0.7.1
